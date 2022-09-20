@@ -8,7 +8,7 @@
     </head>
     <body>
         
-            <div class="row" style="width: 94%; left: 3%; position: fixed">        
+            <div class="row" style="width: 94%; left: 3%; position: fixed; height: 100px; z-index: 1">        
                 
                 <div class="col-7 my-4" style="height: 100%; left: 4%">
                     <img src="icons/logo00.png">

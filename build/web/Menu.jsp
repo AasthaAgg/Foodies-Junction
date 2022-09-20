@@ -7,7 +7,7 @@
         <title>Menu</title>
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     </head>
-    <body>
+    <body style="background-image: url('img/2.jpg'); background-repeat: no-repeat; background-size: cover; height: 100%; width: 100%">
        
         <div class="container-fluid">
             <div id="header" style="height: 100px">

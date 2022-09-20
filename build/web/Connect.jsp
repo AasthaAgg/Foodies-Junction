@@ -48,9 +48,9 @@
                             </div>
                             <div id="msg">
                                 <label for="msg">Message</label> <br>
-                                <textarea rows="5" cols="70" placeholder="Type Your Message Here!"  id="msg"></textarea>
+                                <textarea placeholder="Type Your Message Here!"  id="msg" class="form-control"></textarea>
                             </div>
-                            <div class="text-center">
+                            <div class="text-center" style="margin-top: 20px">
                                 <input type="submit" class="btn-lg btn-success" value="Send Message">
                             </div>
                         </fieldset>
